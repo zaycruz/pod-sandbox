@@ -1,0 +1,1 @@
+farewell(name) returns `"goodbye <name>"` for a given name.
